@@ -1,6 +1,6 @@
 # Modern UI
 
-C# 모던 GUI
+C# .Net Framework 4.7.1 기반 모던 GUI
 
 # 유의사항
 
